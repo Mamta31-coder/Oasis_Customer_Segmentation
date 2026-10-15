@@ -169,6 +169,24 @@ This chart compares customer spending across the four business segments.
 
 ![Average Monetary Value by Segment](images/average_monetary_by_segment.png)
 
+### 4. Recency Distribution
+
+This histogram shows how recently customers made their last purchase.
+
+![Recency Distribution](images/recency_distribution.png)
+
+### 5. Frequency Distribution
+
+This histogram shows the distribution of customer purchase frequency.
+
+![Frequency Distribution](images/frequency_distribution.png)
+
+### 6. Monetary Distribution
+
+This histogram shows the distribution of total customer spending.
+
+![Monetary Distribution](images/monetary_distribution.png)
+
 ### 4. RFM Comparison Across Customer Segments
 
 These charts compare average Recency, Frequency, and Monetary values.
@@ -260,8 +278,18 @@ folder structure.
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Mamta Chaudhary**
 
-Data Analytics | Python | SQL | Power BI | Data Visualization
+BSc Data Science & Artificial Intelligence
 
-Connect with me on LinkedIn: <YOUR_LINKEDIN_PROFILE_URL>
+Interested in **Data Analytics, Business Intelligence, Machine Learning, and Data Science**.
+
+### Connect with me
+
+📧 **Email:** choudharymamta1003@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/mamta-chaudhary-964128353/
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
